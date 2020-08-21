@@ -5,17 +5,7 @@ A coronavirus dataset with 90 countries constructed from different reliable sour
 - **Climate:** cold temperatures may promote the spread of the virus
 - **Healthcare:** lack of hospital beds/doctors may lead to more human losses
 - **Economy:** weak economies (GDP) have fewer means to fight the disease
-- **Demography:** older populations may be at higher risk of the disease 
-
-## Number of countries in each file
-- continents-latitude-longitude : 187
-- temperature : 241
-- hospital-beds-per-1000-people : 243
-- medical-doctors-per-1000-people : 253
-- gdp-per-capita : 242
-- population : 242
-- age : 198
-- daily_tests_cases_deaths : 105
+- **Demography:** older populations may be at higher risk of the disease
 
 ## Data description
 <img src="./Images/Data description.png">
