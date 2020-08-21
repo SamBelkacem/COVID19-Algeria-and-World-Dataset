@@ -18,10 +18,10 @@ A coronavirus dataset with 90 countries constructed from different reliable sour
 - daily_tests_cases_deaths : 105
 
 ## Data description
-
+<img src="./Images/Data description.png">
 
 ## Countries in the dataset by geographic coordinates
-
+<img src="./Images/Countries by geographic coordinates.png">
 
 - **Europe:**           33 countries
 - **Asia:**             25 countries
@@ -31,8 +31,10 @@ A coronavirus dataset with 90 countries constructed from different reliable sour
 - **Oceania:**           3 countries
 
 ## Statistical description of the data
+<img src="./Images/Statistical description of the data.png">
 
 ## Data distribution
+<img src="./Images/Daa distribution.png">
 
 ## Updates
 The dataset is updated every month with the latest numbers of COVID-19 cases, deaths, tests. The last update was on August 18, 2020. 
@@ -50,4 +52,4 @@ Eprint = {arXiv:2007.09755},
 ```
 
 ## Contact
-If you have any question or suggestion, please contact me at this e-mail adress: s.belkacem@usthb.dz
+If you have any question or suggestion, please contact me at this e-mail address: s.belkacem@usthb.dz
