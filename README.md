@@ -21,7 +21,7 @@ A coronavirus dataset with 90 countries constructed from different reliable sour
 <img src="./Images/Data description.png">
 
 ## Countries in the dataset by geographic coordinates
-<img src="./Images/Countries by geographic coordinates.png">
+<p align="center"> <img src="./Images/Countries by geographic coordinates.png"> </p>
 
 - **Europe:**           33 countries
 - **Asia:**             25 countries
