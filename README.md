@@ -29,8 +29,8 @@ A coronavirus dataset with 90 countries constructed from different reliable sour
 ## Data update
 The dataset is updated every month with the latest numbers of COVID-19 cases, deaths, tests. The last update was on August 18, 2020. 
 
-## Citation
-If you want to use the dataset please cite the following arXiv paper:
+## Data construction and citation
+If you want to use the dataset please cite the following arXiv paper, more details about the data construction are provided in it.
 
 ```
 @misc{2007.09755,
