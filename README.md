@@ -42,4 +42,4 @@ Eprint = {arXiv:2007.09755},
 ```
 
 ## Contact
-If you have any question or suggestion, please contact me at this e-mail address: s.belkacem@usthb.dz
+If you have any question or suggestion, please contact me at this email address: s.belkacem@usthb.dz
