@@ -26,8 +26,8 @@ A coronavirus dataset with 90 countries constructed from different reliable sour
 ## Data distribution
 <img src="./Images/Data distribution.png">
 
-## Data update
-The dataset is updated every month with the latest numbers of COVID-19 cases, deaths, tests. The last update was on August 18, 2020. 
+## Download and Data update
+The dataset is available on [GitHub](https://github.com/SamBelkacem/COVID19-Algeria-and-World-Dataset/) and is updated every month with the latest numbers of COVID-19 cases, deaths, tests. The last update was on August 18, 2020. 
 
 ## Data construction and citation
 If you want to use the dataset please cite the following arXiv paper, more details about the data construction are provided in it.
