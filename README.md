@@ -36,11 +36,12 @@ The dataset is updated every month with the latest numbers of COVID-19 cases, de
 If you want to use the dataset please cite the following arXiv paper, more details about the data construction are provided in it.
 
 ```
-@misc{2007.09755,
-Author = {Sami Belkacem},
-Title = {COVID-19 Data Analysis and Forecasting: Algeria and the World},
-Year = {2020},
-Eprint = {arXiv:2007.09755},
+@article{belkacem_covid-19_2020,
+	title = {{COVID}-19 data analysis and forecasting: {Algeria} and the world},
+	shorttitle = {{COVID}-19 data analysis and forecasting},
+	journal = {arXiv preprint arXiv:2007.09755},
+	author = {Belkacem, Sami},
+	year = {2020}
 }
 ```
 
