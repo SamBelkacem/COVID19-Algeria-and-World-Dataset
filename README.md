@@ -33,7 +33,12 @@ The dataset is available in an encoded CSV form on [GitHub](https://github.com/S
 The dataset is updated every month with the latest numbers of COVID-19 cases, deaths, tests. The last update was on August 18, 2020.
 
 ## Data construction
-The dataset is constructed from different reliable sources, where each row represents a country, and the columns represent geographic, climate, healthcare, economic, and demographic factors that may contribute to accelerate/slow the spread of the coronavirus. Note that we selected only the main factors for which we found data and that other factors can be used. All data were retrieved from the reliable "Our World in Data" website (https://ourworldindata.org/coronavirus), except for data on continents (www.kaggle.com/statchaitya/country-to-continent), geographic-coordinates (www.kaggle.com/eidanch/counties-geographic-coordinates), temperatures (www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data), and share of the population over 65 years old (https://data.worldbank.org/indicator/SP.POP.65UP.TO.ZS).
+The dataset is constructed from different reliable sources, where each row represents a country, and the columns represent geographic, climate, healthcare, economic, and demographic factors that may contribute to accelerate/slow the spread of the coronavirus. Note that we selected only the main factors for which we found data and that other factors can be used. All data were retrieved from the reliable [Our World in Data](https://ourworldindata.org/coronavirus) website, except for:
+
+- data on continents (www.kaggle.com/statchaitya/country-to-continent)
+- geographic-coordinates (www.kaggle.com/eidanch/counties-geographic-coordinates)
+- temperatures (www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data)
+- share of the population over 65 years old (https://data.worldbank.org/indicator/SP.POP.65UP.TO.ZS).
 
 ## Citation
 If you want to use the dataset please cite the following arXiv paper, more details about the data construction are provided in it.
