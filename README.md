@@ -37,8 +37,8 @@ If you want to use the dataset please cite the following arXiv paper, more detai
 
 ```
 @article{belkacem_covid-19_2020,
-	title = {{COVID}-19 data analysis and forecasting: {Algeria} and the world},
-	shorttitle = {{COVID}-19 data analysis and forecasting},
+	title = {COVID-19 data analysis and forecasting: Algeria and the world},
+	shorttitle = {COVID-19 data analysis and forecasting},
 	journal = {arXiv preprint arXiv:2007.09755},
 	author = {Belkacem, Sami},
 	year = {2020}
