@@ -29,7 +29,7 @@ A coronavirus dataset with 90 countries constructed from different reliable sour
 ## Download
 The dataset is available in an encoded CSV form on [GitHub](https://github.com/SamBelkacem/COVID19-Algeria-and-World-Dataset/).
 
-## Python Code
+## Python code
 The Python Jupyter Notebook to read and visualize the data is available on [nbviewer](https://nbviewer.jupyter.org/github/SamBelkacem/COVID19-Algeria-and-World-Dataset/blob/master/Python%20code.ipynb).
 
 ## Data update
