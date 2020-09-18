@@ -1,5 +1,5 @@
 # COVID19-Algeria-and-World-Dataset
-A coronavirus dataset with 90 countries constructed from different reliable sources, where each row represents a country, and the columns represent geographic, climate, healthcare, economic, and demographic factors that may contribute to accelerate/slow the spread of the COVID-19. The assumptions for the different factors are as follows
+A coronavirus dataset with 90 countries constructed from different reliable sources, where each row represents a country, and the columns represent geographic, climate, healthcare, economic, and demographic factors that may contribute to accelerate/slow the spread of the COVID-19. The assumptions for the different factors are as follows:
 
 - **Geography:** some continents/areas may be more affected by the disease
 - **Climate:** cold temperatures may promote the spread of the virus
