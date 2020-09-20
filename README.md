@@ -7,7 +7,7 @@ A coronavirus dataset with 90 countries constructed from different reliable sour
 - **Economy:** weak economies (GDP) have fewer means to fight the disease
 - **Demography:** older populations may be at higher risk of the disease
 
-The last column represents the number of daily tests performed and the total number of reported cases and deaths.
+The last column represents the number of daily tests performed and the total number of cases and deaths reported each day.
 
 ## Data description
 <img src="./Images/Data description.png">
