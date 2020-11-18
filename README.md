@@ -59,4 +59,4 @@ If you want to use the dataset please cite the following arXiv paper, more detai
 ```
 
 ## Contact
-If you have any question or suggestion, please contact me at this email address: s.belkacem@usthb.dz 
+If you have any question or suggestion, please contact me at this email address: s.belkacem@usthb.dz
