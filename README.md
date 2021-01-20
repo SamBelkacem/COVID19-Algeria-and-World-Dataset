@@ -1,5 +1,5 @@
 # COVID19-Algeria-and-World-Dataset
-A coronavirus dataset with 98 countries constructed from different reliable sources, where each row represents a country, and the columns represent geographic, climate, healthcare, economic, and demographic factors that may contribute to accelerate/slow the spread of the COVID-19. The assumptions for the different factors are as follows: 
+A coronavirus dataset with 101 countries constructed from different reliable sources, where each row represents a country, and the columns represent geographic, climate, healthcare, economic, and demographic factors that may contribute to accelerate/slow the spread of the COVID-19. The assumptions for the different factors are as follows: 
 
 - **Geography:** some continents/areas may be more affected by the disease
 - **Climate:** cold temperatures may promote the spread of the virus
@@ -15,8 +15,8 @@ The last column represents the number of daily tests performed and the total num
 ## Countries in the dataset by geographic coordinates
 <p align="center"> <img src="./Images/Countries by geographic coordinates.png"> </p>
 
-- **Europe:**           30 countries
-- **Asia:**             26 countries
+- **Europe:**           31 countries
+- **Asia:**             27 countries
 - **Africa:**           21 countries
 - **North America:**    11 countries
 - **South America:**     8 countries
@@ -35,7 +35,7 @@ The dataset is available in an encoded CSV form on [GitHub](https://github.com/S
 The Python Jupyter Notebook to read and visualize the data is available on [nbviewer](https://nbviewer.jupyter.org/github/SamBelkacem/COVID19-Algeria-and-World-Dataset/blob/master/Python%20code.ipynb).
 
 ## Data update
-The dataset is updated every month with the latest numbers of COVID-19 cases, deaths, and tests. The last update was on December 18, 2020.
+The dataset is updated every month with the latest numbers of COVID-19 cases, deaths, and tests. The last update was on January 20, 2020.
 
 ## Data construction
 The dataset is constructed from different reliable sources, where each row represents a country, and the columns represent geographic, climate, healthcare, economic, and demographic factors that may contribute to accelerate/slow the spread of the coronavirus. Note that we selected only the main factors for which we found data and that other factors can be used. All data were retrieved from the reliable [Our World in Data](https://ourworldindata.org/coronavirus) website, except for data on:
