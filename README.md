@@ -44,6 +44,7 @@ The dataset is constructed from different reliable sources, where each row repre
 - Geographic-coordinates: www.kaggle.com/eidanch/counties-geographic-coordinates
 - Temperatures: www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
 - Share of the population over 65 years old: https://data.worldbank.org/indicator/SP.POP.65UP.TO.ZS
+- GDP/Capita: https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
 
 ## Citation
 If you want to use the dataset please cite the following arXiv paper, more details about the data construction are provided in it.
