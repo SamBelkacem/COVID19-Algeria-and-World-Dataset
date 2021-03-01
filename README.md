@@ -10,7 +10,7 @@ A coronavirus dataset with 104 countries constructed from different reliable sou
 The last column represents the number of daily tests performed and the total number of cases and deaths reported each day.
 
 ## Data description
-<img src="./Images/Data description.png">
+<img src="./Images/Data description.png"> 
 
 ## Countries in the dataset by geographic coordinates
 <p align="center"> <img src="./Images/Countries by geographic coordinates.png"> </p>
